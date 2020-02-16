@@ -363,8 +363,8 @@ let i18n = {
 			"DescDebug" : "<p>Extension <strong class='text-danger'>BETA</strong></p><a target='_blank' href='https://foe-rechner.de/extension/update?v=__version__&lang=__language__'>Changelog</a>",  // Todo: Translate: Translate
 			"Desc" : "Chrome Extension Version",
 			"PlayerId": "Player-Id:",  // Todo: Translate
-			"GuildId": "Gild-Id:",  // Todo: Translate
-			"World": "World:"  // Todo: Translate
+			"GuildId": "Guild-Id:",  // Todo: Translate
+			"World": "Svět:"  // Todo: Translate
 		},
 		"GlobalSend": {
 			"Title" : "Přenos dat foe-rechner.de",
@@ -408,7 +408,7 @@ let i18n = {
 			"Button" : "Návrat!"
 		},
 		"MenuLength": {
-			"Title" : "Menu length",  // Todo: Translate
+			"Title" : "Délka menu",  // Todo: Translate
 			"Desc" : "How many elements high should the menu be?<br> Empty or \"0\" means automatic height."  // Todo: Translate
 		},
 		"ChangeLanguage": {
@@ -460,10 +460,10 @@ let i18n = {
 	"HiddenRewards": {
 		"Positions": {
 			"nature": "Nature",   // Todo: Translate
-			"shore": "Shore",   // Todo: Translate
-			"water": "in the water",   // Todo: Translate
-			"cityRoadSmall": "small Road",   // Todo: Translate
-			"cityRoadBig": "big Road",   // Todo: Translate
+			"shore": "Pláž",   // Todo: Translate
+			"water": "Na vodě",   // Todo: Translate
+			"cityRoadSmall": "Jednoproudá cesta",   // Todo: Translate
+			"cityRoadBig": "Dvouproudová silnice",   // Todo: Translate
 			"guildExpedition": "Guild expedition" //Todo: Translate
 		},
 		"Table": {
